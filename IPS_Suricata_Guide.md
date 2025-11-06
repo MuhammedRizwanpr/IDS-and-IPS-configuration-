@@ -82,31 +82,31 @@ sudo tail -f /var/log/suricata/fast.log
 
 ### 1. IPS Setup
 
-![IPS Setup](images/1.png)
+![IPS Setup](screenshor1/1.png)
 
 ---
 
-### 2. Check Your IP
+### 2. Suricata IPS Running
 
-![Your IP Address](images/2.png)
-
----
-
-### 3. Suricata IPS Running
-
-![Suricata IPS Running](images/3.png)
+![Your IP Address](screenshor1/2.png)
 
 ---
 
-### 4. Ping Attempt from Kali Linux VM
+### 3. Ping Attempt from Kali Linux VM
 
-![Sending Ping](images/4.png)
+![Suricata IPS Running](screenshor1/3.png)
+
+---
+
+### 4. WIRESHARK VIEW
+
+![Sending Ping](screenshor1/4.png)
 
 ---
 
 ### 5. Block Alert Shown
 
-![Block Alert Details](images/5.png)
+![Block Alert Details](screenshor1/5.png)
 
 ---
 
